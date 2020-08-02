@@ -1,0 +1,11 @@
+﻿UserBank,Security,MemoNumber,PackageName,ValuationDate,RuleName,Comment,updated by,updatedDateTime
+BT,TEST12345,1,Package1,7/28/20,Rule1,Trade booked per Recap,R System,7/28/20 16:58
+BT,TEST12346,2,Package1,7/28/20,Rule1,Trade booked per Recap,R System,7/28/20 16:58
+BT,TEST12347,3,Package1,7/28/20,Rule2,"valid, Trade booked as per recap",P System,7/28/20 16:30
+BT,TEST12348,4,Package1,7/28/20,Rule1,Trade booked per Recap,P System,7/28/20 16:30
+BT,TEST12349,5,Package1,7/28/20,Rule1,Trade booked per Recap,P System,7/28/20 16:30
+BT,TEST12350,6,Package1,7/28/20,Rule1,Trade booked per Recap,R System,7/28/20 16:58
+BT,TEST12351,7,Package1,7/28/20,Rule1,Trade booked per Recap,R System,7/28/20 16:58
+BT,TEST12352,8,Package1,7/28/20,Rule2,verified valid,P System,7/28/20 16:30
+BT,TEST12353,9,Package1,7/28/20,Rule1,"valid trade ,  booked as per recap",P System,7/28/20 16:30
+BT,TEST12354,10,Package1,7/28/20,Rule1,"Not Duplicate, verified per recap",P System,7/28/20 16:30
